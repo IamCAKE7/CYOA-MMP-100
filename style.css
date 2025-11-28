@@ -86,3 +86,62 @@ nav {
 .activeMenuItem {
   background-color: rgb(174, 80, 146);
   color: white;}
+
+/* images */
+.po {
+  height: 300px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.st {
+  height: 350px;
+  width: 400px;
+  display: block;
+  margin-left: all;
+  
+}
+
+.fb {
+  height: 350px;
+  width: 500px;
+  display: block;
+  margin-right: all;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* footer css */
+footer {
+  color: pink;
+}
+
+/* recipe page img */
+.recipes-layout {
+  display: flex;
+}
+
+.left-column {
+  width: 80%;       
+} 
+
+.right-column { 
+  width: 300%; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+.recipe-image {
+  height: 350px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
